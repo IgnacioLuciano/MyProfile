@@ -9,7 +9,7 @@ const Routerp = () => (
         <div>
     <Route path='/' exact={true} component={Profile} />
     <Route path='/Profile' component={Profile} />
-</div>
+ </div>
 </Router>
 );
 
