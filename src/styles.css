@@ -1,13 +1,26 @@
 .backgroundpic1{
     width: 100%;
     height: 10vh;
-    background: url("https://static.pexels.com/photos/335253/pexels-photo-335253.jpeg") no-repeat 50% 50%;
+    background: url("https://static.pexels.com/photos/373076/pexels-photo-373076.jpeg") no-repeat 50% 50%;
     background-size: cover;
 }
 
 .backgroundpic2{
     width: 100%;
     height: 80vh;
-    background: url("https://static.pexels.com/photos/335253/pexels-photo-335253.jpeg") no-repeat 50% 50%;
+    background: url("https://static.pexels.com/photos/373076/pexels-photo-373076.jpeg") no-repeat 50% 50%;
     background-size: cover;
+}
+
+.Ign3{
+    border: 3px solid rgb(59, 49, 2);
+    width: 80px;
+    height: 80px;
+    
+} 
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color:  rgb(59, 49, 2);
+    text-shadow: 0 0 2px rgb(71, 53, 3);
+    padding-right: 10px;
 }
