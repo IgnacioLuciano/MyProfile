@@ -31,7 +31,7 @@ const Profile2 = (props) => {
             <div className='myName'>
                 {/* <Center> */}
                 Ignacio Luciano
-                    <img className='Ign3' type="image" title="Ignacio Luciano" src={Ign3} />
+                    {/* <img className='Ign3' type="image" title="Ignacio Luciano" src={Ign3} /> */}
                 {/* </Center> */}
             </div>
             </Center>
